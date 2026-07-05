@@ -2,7 +2,7 @@
 
 ## Hi!! I'm Víctor
 
-Physics graduate interested in computational physics, simulations, scientific data analysis, and machine learning applied to physics. Currently learning about computer vision and hyperspectral imaging.
+Physics graduate interested in computational physics, simulations, scientific data analysis and machine learning applied to physics. Currently learning about computer vision and hyperspectral imaging.
 
 ### Skills
 
